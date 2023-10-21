@@ -1,5 +1,6 @@
 import home from "./home.js";
 import login from "./login.js";
+import register from "./register.js";
 
 const main = document.querySelector("#root");
 
@@ -13,6 +14,9 @@ const init = () => {
             case "#login":
                 main.appendChild(login());
                 break;
+            case "#register":
+                main.appendChild(register());
+                break;    
             default:
                 main.appendChild(home());
         }

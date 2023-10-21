@@ -1,7 +1,7 @@
 export default () => {
-    const containerLogin = document.createElement("div");
+    const containerRegister = document.createElement("div");
 
-    const templateLogin = `
+    const templateRegister = `
         <form class="logContainer">
             <p class="loginParagraph">Entre na sua conta</p>
 
@@ -17,7 +17,7 @@ export default () => {
         </form>
     `;
 
-    containerLogin.innerHTML = templateLogin;
+    containerRegister.innerHTML = templateRegister;
 
-    return containerLogin;
+    return containerRegister;
 }
