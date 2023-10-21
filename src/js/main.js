@@ -1,15 +1,19 @@
 import home from "./home.js";
+import login from "./login.js";
 
 const main = document.querySelector("#root");
 
 const init = () => {
     window.addEventListener("hashchange", () => {
-
+        main.innerHTML = "";
         switch(window.location.hash){
-            case " ":
+            case "#home":
                 main.appendChild(home());
                 break;
-                default:
+            case "#login":
+                main.appendChild(login());
+                break;
+            default:
                 main.appendChild(home());
         }
     })
