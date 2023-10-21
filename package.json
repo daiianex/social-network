@@ -1,0 +1,23 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiianex/social-network.git"
+  },
+  "author": "Daiane Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiianex/social-network/issues"
+  },
+  "homepage": "https://github.com/daiianex/social-network#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
