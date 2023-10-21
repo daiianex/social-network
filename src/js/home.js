@@ -3,7 +3,7 @@ export default () => {
     
     const templateHome = `
         <form class="container">
-            <img class="logo" src="src\img\logo.png" />            
+            
             <p>Sua rede de teorias  da conspiração
             feita para compartilhar historias e 
             visão sobre </p>
