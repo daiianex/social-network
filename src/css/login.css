@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-weight: 700;
+}
+
+body {
+    background: #F8F8FF;
+}
+
+.containerLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    font-size: 1.5em;
+}
+
+.infosLogin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input {
+  font-size: 1em;
+  border-radius: 0.5em;
+  text-align: center;
+  border: 1px solid #0F1318;
+  width: 15em;
+  height: 1.5em;
+}
+
+.input :hover{
+  border-style: none;
+}
+
+.btnPrincipal {
+    background-color: #0F1318;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 400;
+    width: 15em;
+    height: 1.5em;
+    border-radius: 2em;
+    border: solid;
+    cursor: pointer;
+}
+
+a {
+    color: inherit;
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.btnGoogle {
+    background-color: #fff;
+    font-size: 1em;
+    font-weight: 400;
+    width: 15em;
+    height: 1.5em;
+    border-radius: 2em;
+    border: 1px solid;
+    cursor: pointer;   
+}

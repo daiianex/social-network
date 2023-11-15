@@ -5,11 +5,13 @@ export default () => {
         <form class="container">
 
             <img class="logo" src="img/logo.png" alt="Logo">
-            <p>Sua rede de teorias  da conspiração
-            feita para compartilhar historias e 
-            visão sobre </p>
 
-            
+            <section class="infosHome">
+                <p>Sua rede de teorias  da conspiração
+                feita para compartilhar historias e 
+                visão sobre </p>
+            <section>    
+
             <button class="btnPrincipal"><a href="#login">ENTRAR</a></button>
             
         </form>
