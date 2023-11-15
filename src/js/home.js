@@ -13,6 +13,7 @@ export default () => {
             <section>    
 
             <button class="btnPrincipal"><a href="#login">ENTRAR</a></button>
+
             
         </form>
     `;

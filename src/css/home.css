@@ -1,5 +1,35 @@
+* {
+    margin: 0;
+}
+
+body {
+
+    background: #FFFFFF;    
+
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFF8DC;
+}
+.textAndbtn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+
 .infosHome{
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.btnStart {
+    background-color: #0F1318;
+    color: #FFFFFF;
 }
