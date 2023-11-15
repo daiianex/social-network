@@ -12,5 +12,13 @@
     height: 1.5em;
     border-radius: 2em;
     border: 1px solid #7A7A7A;
-    cursor: pointer;   
+    cursor: pointer;
+}
+
+input {
+    border-radius: 5px;
+    border: 1px solid #7A7A7A;
+    background: #FFF;
+    width: 20em;
+    height: 2em;
 }
