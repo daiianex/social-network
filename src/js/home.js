@@ -3,15 +3,17 @@ export default () => {
     
     const templateHome = `
         <form class="container">
-            <img src="./img/logo.png" />
-            <section class="textAndbtn">
+
+            <img class="logo" src="img/logo.png" alt="Logo">
+
+            <section class="infosHome">
                 <p>Sua rede de teorias  da conspiração
                 feita para compartilhar historias e 
                 visão sobre </p>
+            <section>    
 
-                <button class="btnStart"><a href="#login">ENTRAR</a></button>
+            <button class="btnPrincipal"><a href="#login">ENTRAR</a></button>
 
-            </section>
             
         </form>
     `;
