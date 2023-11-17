@@ -3,16 +3,16 @@ export default () => {
     
     const templateHome = `
         <form class="container">
-            <img src="./img/logo.png" />
-            <section class="textAndbtn">
-                <p>Sua rede de teorias  da conspiração
+            <section class="left-container">
+                <img src="./img/logo.png" />
+            </section>
+            <section class="right-container">
+                <p class="paragraphPrincipal">Sua rede de teorias  da conspiração
                 feita para compartilhar historias e 
                 visão sobre </p>
 
-                <button class="btnStart"><a href="#login">ENTRAR</a></button>
-
+                <button class="btnfunction"><a href="#login">ENTRAR</a></button>
             </section>
-            
         </form>
     `;
     containerHome.innerHTML = templateHome;
