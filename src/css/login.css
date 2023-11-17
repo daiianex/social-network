@@ -1,10 +1,43 @@
+.loginParagraph {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.paragraphLogin {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+}
+
 .btnGoogle {
-    background-color: #0F1318;
-    width: 10rem;
+    background-color: #ffffff;
+    width: 15rem;
     height: 2rem;
-    border: none;
+    border: 1px solid #7A7A7A;
+    color: #000000;
     border-radius: 5rem;
-    color: #fff;
     text-transform: uppercase;
     outline-style: none;
+}
+
+.btnGoogle img {
+    width: 1.2em;
+}
+
+.input {
+    width: 15rem;
+    height: 2rem;
+    border-radius: 5px;
+    border: 1px solid #7A7A7A;
+    background: #ffffff;
+    text-align: center;
+}
+
+.group-inputs {
+    display: flex;
+    flex-direction: column;
+}
+
+.successMessage {
+    color: #ff0000;
 }

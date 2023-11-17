@@ -8,7 +8,7 @@ export default () => {
             </section>
             <section class="right-container">
                 <p class="paragraphPrincipal">Sua rede de teorias  da conspiração
-                feita para compartilhar historias e 
+                <br>feita para compartilhar historias e 
                 visão sobre </p>
 
                 <button class="btnfunction"><a href="#login">ENTRAR</a></button>
