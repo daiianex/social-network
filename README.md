@@ -3,9 +3,9 @@
 ## Índice
 
 * [1. Sobre o projeto](#1-Sobre-o-projeto)
-* [2. Equipe do projeto](#2-Equipe-do-projeto)
-* [3. UX e UI do projeto](#4-UX-e-UI-do-projeto)
-* [4. Tecnologias utilizadas](#5-Tecnologias-utilizadas)
+* [2. UX e UI do projeto](#2-UX-e-UI-do-projeto)
+* [3. Historias de usuário](#3-historias-de-usuario)
+* [4. Tecnologias utilizadas](#4-Tecnologias-utilizadas)
 
 ## 1. Sobre o projeto
 Uma rede social onde você pode postar teorias e comentar sobre, sem julgamentos, com muito respeito a cima de tudo e reciprocidade. Oferece um espaço livre, para quem gosta do tema interagir e se sentir à vontade.
