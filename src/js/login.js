@@ -19,7 +19,7 @@ export default () => {
                 <br><button class="btnfunction" id="btn-Entrar">Entrar</button><br>
                 <button class="btnfunction"> Esqueceu sua senha? </button><br>          
                 <p> Não tem conta?
-                <a class="linkPrincipal" href="#register">Criar</a></p><br>
+                <a class="linkPrincipal" href="#register">Inscreva-se</a></p><br>
             </section>
         </form>
     `;
