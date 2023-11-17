@@ -12,6 +12,7 @@
 Uma rede social onde você pode postar teorias e comentar sobre, sem julgamentos, com muito respeito a cima de tudo e reciprocidade. Oferece um espaço livre, para quem gosta do tema interagir e se sentir à vontade.
 
 ## 2. UX e UI do projeto
+<img src="/src/img/banner_ux.png">
 
 ## 3. Histórias de usuário
 Depois de entender as necessidades de seus usuários, escrevemos três Histórias de Usuário. Duas representam tudo o que ele precisa fazer/ver na Rede Social. A terceira seria Hacker edition, será utilizada em futuras refatorações.
