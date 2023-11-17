@@ -1,4 +1,5 @@
 # 7Além - Teorias da conspiração
+<img src="/src/img/banner_readme.png">
 
 ## Índice
 
