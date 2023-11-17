@@ -1,5 +1,5 @@
 # 7Além - Teorias da conspiração
-
+<img src="/src/img/banner_readme.png">
 ## 1. Sobre o projeto
 Uma rede social onde você pode postar teorias e comentar sobre, sem julgamentos, com muito respeito a cima de tudo e reciprocidade. Oferece um espaço livre, para quem gosta do tema interagir e se sentir à vontade.
 
