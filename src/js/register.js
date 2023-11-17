@@ -18,6 +18,7 @@ export default () => {
                 </section>
                 <p id="message" class="successMessage menssage"></p>
                 <br><button class="btnfunction" id="btn-Register">Criar conta</button><br>
+                <p> Ja tem uma conta? <a class="linkPrincipal" href="#login">Entrar</a></p><br>
                 </section>
             </section>
         </form>
