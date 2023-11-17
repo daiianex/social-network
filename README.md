@@ -1,17 +1,26 @@
 # 7Além - Teorias da conspiração
 
+## Índice
+
+* [1. Sobre o projeto](#1-Sobre-o-projeto)
+* [2. Equipe do projeto](#2-Equipe-do-projeto)
+* [3. UX e UI do projeto](#4-UX-e-UI-do-projeto)
+* [4. Tecnologias utilizadas](#5-Tecnologias-utilizadas)
+
 ## 1. Sobre o projeto
 Uma rede social onde você pode postar teorias e comentar sobre, sem julgamentos, com muito respeito a cima de tudo e reciprocidade. Oferece um espaço livre, para quem gosta do tema interagir e se sentir à vontade.
 
-## 2. Histórias de usuário
+## 2. UX e UI do projeto
+
+## 3. Histórias de usuário
 Depois de entender as necessidades de seus usuários, escrevemos três Histórias de Usuário. Duas representam tudo o que ele precisa fazer/ver na Rede Social. A terceira seria Hacker edition, será utilizada em futuras refatorações.
 
-#### 2.1 Histórias de usuário 1!
+#### 3.1 Histórias de usuário 1!
 <img src="/src/img/hu1.png">
-#### 2.2 Histórias de usuário 2!
+#### 3.2 Histórias de usuário 2!
 <img src="/src/img/hu2.png">
 
-## 3. Tecnologias utilizadas
+## 4. Tecnologias utilizadas
 Objetivos de aprendizagem e tecnologias que nortearam nossa estratégia de trabalho:
 
 ### HTML
