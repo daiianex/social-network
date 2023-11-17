@@ -1,6 +1,6 @@
 export default () => {
     const containerHome = document.createElement("div");
-    
+
     const templateHome = `
         <form class="container">
             <section class="left-container">
